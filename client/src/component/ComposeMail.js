@@ -104,7 +104,7 @@ export default function ComposeMail({openDialog,setOpenDialog}) {
             body:data.body,
             date:new Date(),
             attach:'',
-            name:'Jaykrishna',
+            name:'Neelmani',
             starred:false,
             drafts:true,
             type:'drafts'
@@ -138,7 +138,7 @@ export default function ComposeMail({openDialog,setOpenDialog}) {
             body:data.body,
             date:new Date(),
             attach:'',
-            name:'Raghav',
+            name:'Neelmani',
             starred:false,
             drafts:false,
             type:'sent'
